@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 34bc72dcc4829b9469eebafe3bbe059e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ufoPrefab: {fileID: -8419887657525002271, guid: df7aee1a8f73b894dae53f7cb951e781, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
